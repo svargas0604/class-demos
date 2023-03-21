@@ -1,1 +1,32 @@
+
+body {
+    color:darkslateblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.alt-row {
+    color:darkblue;
+}
+
+
+nav li {
+    color:darkblue
+}
+
+figcaption {
+    color:black;
+}
+
+nav li {
+    color:black;
+    list-style-type: square;
+}
+
+a:hover {
+    color:red
+}
+
+a:active {
+    color:magenta
+}
 /* This is a comment! */
